@@ -7,7 +7,7 @@ Focado em aprender funções básicas e principais fundamentos do python.
 
 * Forca 💀
 
-Aprendendo a organizar o código utilizando funções, trabalhando com diferentes estruturas de dados e lidando com importação de arquivos. 
+Aprendendo a organizar o código utilizando funções, trabalhar com diferentes estruturas de dados e lidar com importação de arquivos. 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
